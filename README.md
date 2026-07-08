@@ -1,3 +1,4 @@
+
 Salaam alaikum
 
 After a long period of development, I want to show you a project that I am currently working on.
@@ -23,6 +24,8 @@ calculates the quantity;
 calculates the total weight;
 generates a ready-made report with the analysis results.
 The entire process takes less time and is significantly faster than manual counting.
+
+<img width="942" height="461" alt="Снимок экрана 2026-07-08 152037" src="https://github.com/user-attachments/assets/c4bfce0b-4e2c-48cc-af11-a9b6be8e93f4" />
 
 <img width="1919" height="997" alt="Основаной Экран" src="https://github.com/user-attachments/assets/5dab5d09-1ad9-48c2-a4b3-21ae7e79cba2" />
 
